@@ -1,0 +1,6 @@
+click
+click
+win10toast
+pyinstaller
+playsound
+plyer
